@@ -1,0 +1,1557 @@
+[
+  {
+    "section": "(top)",
+    "tag": "span",
+    "text": "Idioma"
+  },
+  {
+    "section": "(top)",
+    "tag": "span",
+    "text": "Español"
+  },
+  {
+    "section": "(top)",
+    "tag": "option",
+    "text": "Español"
+  },
+  {
+    "section": "(top)",
+    "tag": "option",
+    "text": "English"
+  },
+  {
+    "section": "(top)",
+    "tag": "option",
+    "text": "Português"
+  },
+  {
+    "section": "(top)",
+    "tag": "option",
+    "text": "日本語"
+  },
+  {
+    "section": "(top)",
+    "tag": "p",
+    "text": "DONACIONES"
+  },
+  {
+    "section": "(top)",
+    "tag": "p",
+    "text": "97"
+  },
+  {
+    "section": "(top)",
+    "tag": "p",
+    "text": "MONTO DONADO"
+  },
+  {
+    "section": "(top)",
+    "tag": "p",
+    "text": "$7762"
+  },
+  {
+    "section": "Ayuda a Venezuela",
+    "tag": "h1",
+    "text": "Ayuda a Venezuela"
+  },
+  {
+    "section": "Ayuda a Venezuela",
+    "tag": "p",
+    "text": "El 24 de junio, Venezuela fue golpeada por dos terremotos que dejaron a miles de personas damnificadas en todo el pais. Este portal facilita el envio de ayuda monetaria para apoyar a quienes mas la necesitan durante esta crisis."
+  },
+  {
+    "section": "Ayuda a Venezuela",
+    "tag": "p",
+    "text": "Monto a donar"
+  },
+  {
+    "section": "Ayuda a Venezuela",
+    "tag": "button",
+    "text": "$10"
+  },
+  {
+    "section": "Ayuda a Venezuela",
+    "tag": "button",
+    "text": "$25"
+  },
+  {
+    "section": "Ayuda a Venezuela",
+    "tag": "button",
+    "text": "$50"
+  },
+  {
+    "section": "Ayuda a Venezuela",
+    "tag": "button",
+    "text": "$100"
+  },
+  {
+    "section": "Ayuda a Venezuela",
+    "tag": "button",
+    "text": "Otro"
+  },
+  {
+    "section": "Ayuda a Venezuela",
+    "tag": "p",
+    "text": "Metodo"
+  },
+  {
+    "section": "Ayuda a Venezuela",
+    "tag": "button",
+    "text": "Binance Pay"
+  },
+  {
+    "section": "Ayuda a Venezuela",
+    "tag": "span",
+    "text": "Binance Pay"
+  },
+  {
+    "section": "Ayuda a Venezuela",
+    "tag": "p",
+    "text": "Tipo de ayuda"
+  },
+  {
+    "section": "Ayuda a Venezuela",
+    "tag": "button",
+    "text": "Rescate Respuesta de emergencia y asistencia directa en zonas afectadas."
+  },
+  {
+    "section": "Ayuda a Venezuela",
+    "tag": "span",
+    "text": "Rescate Respuesta de emergencia y asistencia directa en zonas afectadas."
+  },
+  {
+    "section": "Ayuda a Venezuela",
+    "tag": "span",
+    "text": "Rescate"
+  },
+  {
+    "section": "Ayuda a Venezuela",
+    "tag": "span",
+    "text": "Respuesta de emergencia y asistencia directa en zonas afectadas."
+  },
+  {
+    "section": "Ayuda a Venezuela",
+    "tag": "p",
+    "text": "Destino"
+  },
+  {
+    "section": "Ayuda a Venezuela",
+    "tag": "button",
+    "text": "Cáritas Venezuela Organización humanitaria con presencia nacional en alimentación, agua, salud y socorro ante desastres."
+  },
+  {
+    "section": "Ayuda a Venezuela",
+    "tag": "span",
+    "text": "Cáritas Venezuela Organización humanitaria con presencia nacional en alimentación, agua, salud y socorro ante desastres."
+  },
+  {
+    "section": "Ayuda a Venezuela",
+    "tag": "span",
+    "text": "Cáritas Venezuela"
+  },
+  {
+    "section": "Ayuda a Venezuela",
+    "tag": "span",
+    "text": "Organización humanitaria con presencia nacional en alimentación, agua, salud y socorro ante desastres."
+  },
+  {
+    "section": "Ayuda a Venezuela",
+    "tag": "button",
+    "text": "Donar"
+  },
+  {
+    "section": "Ayuda a Venezuela",
+    "tag": "a",
+    "text": "Ver cómo se usan los fondos"
+  },
+  {
+    "section": "Ayuda a Venezuela",
+    "tag": "p",
+    "text": "Transparencia en tiempo real"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "h2",
+    "text": "Donaciones"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "Cada donativo confirmado se suma al registro publico para mostrar a donde esta llegando el apoyo."
+  },
+  {
+    "section": "Donaciones",
+    "tag": "label",
+    "text": "Buscar donante o causa"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "Buscar donante o causa"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "button",
+    "text": "Filtros"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "Total donantes 97 Personas que han donado"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "Total donantes"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "97"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "Personas que han donado"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "Total recaudado $7,762.96 Monto total confirmado"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "Total recaudado"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "$7,762.96"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "Monto total confirmado"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "Donaciones hoy $1,514.53 17 donaciones confirmadas"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "Donaciones hoy"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "$1,514.53"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "17 donaciones confirmadas"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "Muro de donantes Donativos más recientes"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "Muro de donantes"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "Donativos más recientes"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "85"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "C"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "Claudia"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "para Apoyo para cualquier necesidad (Rescate, Medicina, Comida, Niños, etc.)"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "🇲🇽 México - hace 1 hora"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "🇲🇽"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "México"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "- hace 1 hora"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "A"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "Anónimo"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "🇪🇨 Ecuador - hace 2 horas"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "🇪🇨"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "Ecuador"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "- hace 2 horas"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "K"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "Kelvin"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "para Compañeros de C2S en Venezuela"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "🇵🇷 Puerto Rico - hace 3 horas"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "🇵🇷"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "Puerto Rico"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "- hace 3 horas"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "L"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "Luis"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "🇵🇷 Puerto Rico - hace 4 horas"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "- hace 4 horas"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "J"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "Josue"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "R"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "René"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "🇵🇷 Puerto Rico - hace 6 horas"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "- hace 6 horas"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "O"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "Oswaldo"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "🇻🇪 Venezuela - hace 6 horas"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "🇻🇪"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "Venezuela"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "M"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "Mario"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "S"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "Silvia"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "🇨🇦 Canadá - hace 6 horas"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "🇨🇦"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "Canadá"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "José"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "para Regnum Christi Venezuela"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "button",
+    "text": "Ver todos los donantes"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "Feed reciente Donaciones directas y actividad reciente"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "Feed reciente"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "Donaciones directas y actividad reciente"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "12"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "Anonimo"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "para Cáritas Venezuela"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "🇻🇪 Venezuela - hace 4 horas"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "🇲🇽 México - hace 18 horas"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "- hace 18 horas"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "para Dividendo Voluntario para la Comunidad"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "🇲🇽 México - hace 22 horas"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "- hace 22 horas"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "para Cruz Roja Venezolana"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "🇵🇪 Perú - anteayer"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "🇵🇪"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "Perú"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "- anteayer"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "🇲🇽 México - anteayer"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "🇻🇪 Venezuela - hace 3 días"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "- hace 3 días"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "G"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "Gloriel"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "🇯🇵 Japón - hace 3 días"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "🇯🇵"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "span",
+    "text": "Japón"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "Alfredo"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "Angel"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "p",
+    "text": "- hace 3 días"
+  },
+  {
+    "section": "Donaciones",
+    "tag": "button",
+    "text": "Ver todo el feed"
+  },
+  {
+    "section": "¿A dónde va tu donación?",
+    "tag": "h2",
+    "text": "¿A dónde va tu donación?"
+  },
+  {
+    "section": "¿A dónde va tu donación?",
+    "tag": "p",
+    "text": "Cada tipo de ayuda se canaliza directamente a una organización aliada."
+  },
+  {
+    "section": "Cáritas Venezuela",
+    "tag": "h3",
+    "text": "Cáritas Venezuela"
+  },
+  {
+    "section": "Cáritas Venezuela",
+    "tag": "p",
+    "text": "Organización humanitaria con presencia nacional en alimentación, agua, salud y socorro ante desastres."
+  },
+  {
+    "section": "Cáritas Venezuela",
+    "tag": "span",
+    "text": "Alimentacion"
+  },
+  {
+    "section": "Cáritas Venezuela",
+    "tag": "span",
+    "text": "Medicina"
+  },
+  {
+    "section": "Hogar Bambi",
+    "tag": "h3",
+    "text": "Hogar Bambi"
+  },
+  {
+    "section": "Hogar Bambi",
+    "tag": "p",
+    "text": "Fundación que brinda hogar, protección y desarrollo integral a niños y adolescentes separados de sus familias por abandono o vulnerabilidad."
+  },
+  {
+    "section": "Hogar Bambi",
+    "tag": "span",
+    "text": "Niños"
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "h2",
+    "text": "Quienes lo hacen posible"
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "p",
+    "text": "Empresas y equipos que aportan tecnologia, operacion y alcance para mover ayuda con rapidez."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "a",
+    "text": "Wallibwallib.comTecnologia para coordinar apoyo y pagos."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Wallibwallib.comTecnologia para coordinar apoyo y pagos."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Wallib"
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "wallib.com"
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Tecnologia para coordinar apoyo y pagos."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "a",
+    "text": "Trazando Futurostrazandofuturos.orgRecaudacion y educacion con impacto social."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Trazando Futurostrazandofuturos.orgRecaudacion y educacion con impacto social."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Trazando Futuros"
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "trazandofuturos.org"
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Recaudacion y educacion con impacto social."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "a",
+    "text": "Muneymuney.appSoluciones financieras para mover ayuda."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Muneymuney.appSoluciones financieras para mover ayuda."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Muney"
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "muney.app"
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Soluciones financieras para mover ayuda."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "a",
+    "text": "Merugetmeru.comInfraestructura financiera para operar globalmente."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Merugetmeru.comInfraestructura financiera para operar globalmente."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Meru"
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "getmeru.com"
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Infraestructura financiera para operar globalmente."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "a",
+    "text": "Ibisusaibis.comProducto y tecnologia para la plataforma."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Ibisusaibis.comProducto y tecnologia para la plataforma."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Ibis"
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "usaibis.com"
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Producto y tecnologia para la plataforma."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "a",
+    "text": "Parduxpardux.comIngenieria y soporte para escalar la iniciativa."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Parduxpardux.comIngenieria y soporte para escalar la iniciativa."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Pardux"
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "pardux.com"
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Ingenieria y soporte para escalar la iniciativa."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "a",
+    "text": "Coco Mercadococomercado.comMarketplace que conecta comunidades con bienes esenciales."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Coco Mercadococomercado.comMarketplace que conecta comunidades con bienes esenciales."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Coco Mercado"
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "cocomercado.com"
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Marketplace que conecta comunidades con bienes esenciales."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "a",
+    "text": "Coco Walletcocowallet.appBilletera digital para enviar y recibir ayuda."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Coco Walletcocowallet.appBilletera digital para enviar y recibir ayuda."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Coco Wallet"
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "cocowallet.app"
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Billetera digital para enviar y recibir ayuda."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "a",
+    "text": "Vankvank.coPlataforma de pagos transfronterizos."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Vankvank.coPlataforma de pagos transfronterizos."
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Vank"
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "vank.co"
+  },
+  {
+    "section": "Quienes lo hacen posible",
+    "tag": "span",
+    "text": "Plataforma de pagos transfronterizos."
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "h2",
+    "text": "Iniciativas"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "p",
+    "text": "Donavenezuela.com forma parte de la Red Quipu, un esfuerzo colaborativo para conectar reportes, recursos y canales de ayuda en un solo punto de respuesta."
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "a",
+    "text": "PrincipalRed QuipuPlataforma para centralizar informacion verificada, reportes y recursos de la emergencia."
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "PrincipalRed QuipuPlataforma para centralizar informacion verificada, reportes y recursos de la emergencia."
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "Principal"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "Red Quipu"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "Plataforma para centralizar informacion verificada, reportes y recursos de la emergencia."
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "01"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "Reporte de personas desaparecidas"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "a",
+    "text": "venezuela reportavenezuelareporta.org"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "venezuela reportavenezuelareporta.org"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "venezuela reporta"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "venezuelareporta.org"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "a",
+    "text": "venezuela te buscavenezuelatebusca.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "venezuela te buscavenezuelatebusca.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "venezuela te busca"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "venezuelatebusca.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "a",
+    "text": "desaparecidos terremoto venezueladesaparecidosterremotovenezuela.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "desaparecidos terremoto venezueladesaparecidosterremotovenezuela.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "desaparecidos terremoto venezuela"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "desaparecidosterremotovenezuela.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "02"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "Reporte de daños estructurales"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "a",
+    "text": "terremoto venezuelaterremotovenezuela.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "terremoto venezuelaterremotovenezuela.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "terremoto venezuela"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "terremotovenezuela.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "a",
+    "text": "tilin apptilinapp.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "tilin apptilinapp.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "tilin app"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "tilinapp.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "a",
+    "text": "centinelaapp.appcentinela.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "centinelaapp.appcentinela.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "centinela"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "app.appcentinela.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "03"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "Apoyo presencial y rescate"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "a",
+    "text": "rescate verescate-ve.vercel.app"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "rescate verescate-ve.vercel.app"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "rescate ve"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "rescate-ve.vercel.app"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "04"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "Ingenieros para inspeccion de habitabilidad"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "a",
+    "text": "habitablehabitable.lovable.app"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "habitablehabitable.lovable.app"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "habitable"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "habitable.lovable.app"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "a",
+    "text": "@grupoavila.veinstagram.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "@grupoavila.veinstagram.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "@grupoavila.ve"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "instagram.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "05"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "Centros de acopio"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "a",
+    "text": "ayuda para venezuelaayudaparavenezuela.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "ayuda para venezuelaayudaparavenezuela.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "ayuda para venezuela"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "ayudaparavenezuela.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "a",
+    "text": "veneconnectveneconnect.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "veneconnectveneconnect.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "veneconnect"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "veneconnect.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "a",
+    "text": "tu gruerotugruero.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "tu gruerotugruero.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "tu gruero"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "tugruero.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "a",
+    "text": "zona segurazonasegura.up.railway.app"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "zona segurazonasegura.up.railway.app"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "zona segura"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "zonasegura.up.railway.app"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "06"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "Insumos requeridos por zona"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "08"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "Donaciones y redes de pago"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "a",
+    "text": "dona venezueladonavenezuela.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "dona venezueladonavenezuela.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "dona venezuela"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "donavenezuela.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "09"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "Centros de alimentacion"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "a",
+    "text": "refugios venezuelarefugiosvenezuela.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "refugios venezuelarefugiosvenezuela.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "refugios venezuela"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "refugiosvenezuela.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "10"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "Refugios y alojamiento"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "11"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "Pacientes en hospitales"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "a",
+    "text": "pacientes terremoto vzlapacientesterremotovzla.lovable.app"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "pacientes terremoto vzlapacientesterremotovzla.lovable.app"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "pacientes terremoto vzla"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "pacientesterremotovzla.lovable.app"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "Informacion de mascotas"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "a",
+    "text": "huellascanhuellascan.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "huellascanhuellascan.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "huellascan"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "huellascan.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "13"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "Logistica y transporte"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "14"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "Apoyo medico y psicologico"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "a",
+    "text": "nueveoncenueveonce.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "nueveoncenueveonce.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "nueveonce"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "nueveonce.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "a",
+    "text": "venemergenciavenemergencia.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "venemergenciavenemergencia.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "venemergencia"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "span",
+    "text": "venemergencia.com"
+  },
+  {
+    "section": "Iniciativas",
+    "tag": "p",
+    "text": "ACTIVA LA AYUDA"
+  },
+  {
+    "section": "Cada aporte y cada enlace compartido puede acelerar la respuesta.",
+    "tag": "h2",
+    "text": "Cada aporte y cada enlace compartido puede acelerar la respuesta."
+  },
+  {
+    "section": "Cada aporte y cada enlace compartido puede acelerar la respuesta.",
+    "tag": "p",
+    "text": "Dona para canalizar recursos hacia organizaciones aliadas o comparte Donavenezuela.com para que mas personas encuentren canales de ayuda verificados."
+  },
+  {
+    "section": "Cada aporte y cada enlace compartido puede acelerar la respuesta.",
+    "tag": "a",
+    "text": "Donar"
+  },
+  {
+    "section": "Cada aporte y cada enlace compartido puede acelerar la respuesta.",
+    "tag": "button",
+    "text": "Compartir"
+  },
+  {
+    "section": "Cada aporte y cada enlace compartido puede acelerar la respuesta.",
+    "tag": "a",
+    "text": "Dona Venezuela"
+  },
+  {
+    "section": "Cada aporte y cada enlace compartido puede acelerar la respuesta.",
+    "tag": "span",
+    "text": "Dona Venezuela"
+  },
+  {
+    "section": "Cada aporte y cada enlace compartido puede acelerar la respuesta.",
+    "tag": "p",
+    "text": "Donavenezuela.com conecta aportes con organizaciones e iniciativas que estan respondiendo a la emergencia en Venezuela."
+  },
+  {
+    "section": "Cada aporte y cada enlace compartido puede acelerar la respuesta.",
+    "tag": "p",
+    "text": "PLATAFORMA"
+  },
+  {
+    "section": "Cada aporte y cada enlace compartido puede acelerar la respuesta.",
+    "tag": "a",
+    "text": "Inicio"
+  },
+  {
+    "section": "Cada aporte y cada enlace compartido puede acelerar la respuesta.",
+    "tag": "a",
+    "text": "Iniciativas"
+  },
+  {
+    "section": "Cada aporte y cada enlace compartido puede acelerar la respuesta.",
+    "tag": "p",
+    "text": "INFORMACION"
+  },
+  {
+    "section": "Cada aporte y cada enlace compartido puede acelerar la respuesta.",
+    "tag": "a",
+    "text": "A donde va tu donacion"
+  },
+  {
+    "section": "Cada aporte y cada enlace compartido puede acelerar la respuesta.",
+    "tag": "a",
+    "text": "Otros sitios para donar"
+  },
+  {
+    "section": "Cada aporte y cada enlace compartido puede acelerar la respuesta.",
+    "tag": "p",
+    "text": "RED Y AYUDA"
+  },
+  {
+    "section": "Cada aporte y cada enlace compartido puede acelerar la respuesta.",
+    "tag": "a",
+    "text": "Red Quipu"
+  },
+  {
+    "section": "Cada aporte y cada enlace compartido puede acelerar la respuesta.",
+    "tag": "a",
+    "text": "donavenezuela.com"
+  },
+  {
+    "section": "Cada aporte y cada enlace compartido puede acelerar la respuesta.",
+    "tag": "p",
+    "text": "© 2026 Dona Venezuela"
+  }
+]

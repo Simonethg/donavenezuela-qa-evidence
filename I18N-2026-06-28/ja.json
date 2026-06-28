@@ -1,0 +1,1552 @@
+[
+  {
+    "section": "(top)",
+    "tag": "span",
+    "text": "言語"
+  },
+  {
+    "section": "(top)",
+    "tag": "span",
+    "text": "日本語"
+  },
+  {
+    "section": "(top)",
+    "tag": "option",
+    "text": "Español"
+  },
+  {
+    "section": "(top)",
+    "tag": "option",
+    "text": "English"
+  },
+  {
+    "section": "(top)",
+    "tag": "option",
+    "text": "Português"
+  },
+  {
+    "section": "(top)",
+    "tag": "option",
+    "text": "日本語"
+  },
+  {
+    "section": "(top)",
+    "tag": "p",
+    "text": "寄付件数"
+  },
+  {
+    "section": "(top)",
+    "tag": "p",
+    "text": "97"
+  },
+  {
+    "section": "(top)",
+    "tag": "p",
+    "text": "寄付金額"
+  },
+  {
+    "section": "(top)",
+    "tag": "p",
+    "text": "$7762"
+  },
+  {
+    "section": "ベネズエラ支援",
+    "tag": "h1",
+    "text": "ベネズエラ支援"
+  },
+  {
+    "section": "ベネズエラ支援",
+    "tag": "p",
+    "text": "6月24日、ベネズエラは2度の地震に見舞われ、全国で多くの人々が被災しました。このポータルは、危機の中で最も支援を必要とする人々へ資金援助を届けるためのものです。"
+  },
+  {
+    "section": "ベネズエラ支援",
+    "tag": "button",
+    "text": "$10"
+  },
+  {
+    "section": "ベネズエラ支援",
+    "tag": "button",
+    "text": "$25"
+  },
+  {
+    "section": "ベネズエラ支援",
+    "tag": "button",
+    "text": "$50"
+  },
+  {
+    "section": "ベネズエラ支援",
+    "tag": "button",
+    "text": "$100"
+  },
+  {
+    "section": "ベネズエラ支援",
+    "tag": "button",
+    "text": "その他"
+  },
+  {
+    "section": "ベネズエラ支援",
+    "tag": "p",
+    "text": "方法"
+  },
+  {
+    "section": "ベネズエラ支援",
+    "tag": "button",
+    "text": "Binance Pay"
+  },
+  {
+    "section": "ベネズエラ支援",
+    "tag": "span",
+    "text": "Binance Pay"
+  },
+  {
+    "section": "ベネズエラ支援",
+    "tag": "p",
+    "text": "支援の種類"
+  },
+  {
+    "section": "ベネズエラ支援",
+    "tag": "button",
+    "text": "救助 被災地での緊急対応と直接支援。"
+  },
+  {
+    "section": "ベネズエラ支援",
+    "tag": "span",
+    "text": "救助 被災地での緊急対応と直接支援。"
+  },
+  {
+    "section": "ベネズエラ支援",
+    "tag": "span",
+    "text": "救助"
+  },
+  {
+    "section": "ベネズエラ支援",
+    "tag": "span",
+    "text": "被災地での緊急対応と直接支援。"
+  },
+  {
+    "section": "ベネズエラ支援",
+    "tag": "p",
+    "text": "支援先"
+  },
+  {
+    "section": "ベネズエラ支援",
+    "tag": "button",
+    "text": "Cáritas Venezuela 食料、水、医療、災害救援において全国的な活動を行う人道支援団体です。"
+  },
+  {
+    "section": "ベネズエラ支援",
+    "tag": "span",
+    "text": "Cáritas Venezuela 食料、水、医療、災害救援において全国的な活動を行う人道支援団体です。"
+  },
+  {
+    "section": "ベネズエラ支援",
+    "tag": "span",
+    "text": "Cáritas Venezuela"
+  },
+  {
+    "section": "ベネズエラ支援",
+    "tag": "span",
+    "text": "食料、水、医療、災害救援において全国的な活動を行う人道支援団体です。"
+  },
+  {
+    "section": "ベネズエラ支援",
+    "tag": "button",
+    "text": "寄付"
+  },
+  {
+    "section": "ベネズエラ支援",
+    "tag": "a",
+    "text": "寄付の使途を確認する"
+  },
+  {
+    "section": "ベネズエラ支援",
+    "tag": "p",
+    "text": "リアルタイムの透明性"
+  },
+  {
+    "section": "寄付",
+    "tag": "h2",
+    "text": "寄付"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "確認済みの寄付は公開記録に追加され、支援の届け先を示します。"
+  },
+  {
+    "section": "寄付",
+    "tag": "label",
+    "text": "寄付者または支援先を検索"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "寄付者または支援先を検索"
+  },
+  {
+    "section": "寄付",
+    "tag": "button",
+    "text": "フィルター"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "寄付者総数 97 寄付した人数"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "寄付者総数"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "97"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "寄付した人数"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "寄付総額 $7,762.96 確認済みの合計金額"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "寄付総額"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "$7,762.96"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "確認済みの合計金額"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "本日の寄付 $1,514.53 17件の確認済み寄付"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "本日の寄付"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "$1,514.53"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "17件の確認済み寄付"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "寄付者ウォール 最新の寄付"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "寄付者ウォール"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "最新の寄付"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "85"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "C"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "Claudia"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "寄付先: Apoyo para cualquier necesidad (Rescate, Medicina, Comida, Niños, etc.)"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "🇲🇽 México - 1 時間前"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "🇲🇽"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "México"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "- 1 時間前"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "A"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "Anónimo"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "🇪🇨 Ecuador - 2 時間前"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "🇪🇨"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "Ecuador"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "- 2 時間前"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "K"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "Kelvin"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "寄付先: Compañeros de C2S en Venezuela"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "🇵🇷 Puerto Rico - 3 時間前"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "🇵🇷"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "Puerto Rico"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "- 3 時間前"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "L"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "Luis"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "🇵🇷 Puerto Rico - 4 時間前"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "- 4 時間前"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "J"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "Josue"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "R"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "René"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "🇵🇷 Puerto Rico - 6 時間前"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "- 6 時間前"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "O"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "Oswaldo"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "🇻🇪 Venezuela - 6 時間前"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "🇻🇪"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "Venezuela"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "M"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "Mario"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "S"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "Silvia"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "🇨🇦 Canadá - 6 時間前"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "🇨🇦"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "Canadá"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "José"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "寄付先: Regnum Christi Venezuela"
+  },
+  {
+    "section": "寄付",
+    "tag": "button",
+    "text": "すべての寄付者を見る"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "最近のフィード 直接寄付と最近のアクティビティ"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "最近のフィード"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "直接寄付と最近のアクティビティ"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "12"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "Anonimo"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "寄付先: Cáritas Venezuela"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "🇻🇪 Venezuela - 4 時間前"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "🇲🇽 México - 18 時間前"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "- 18 時間前"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "寄付先: Dividendo Voluntario para la Comunidad"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "🇲🇽 México - 22 時間前"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "- 22 時間前"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "寄付先: Cruz Roja Venezolana"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "🇵🇪 Perú - 一昨日"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "🇵🇪"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "Perú"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "- 一昨日"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "🇲🇽 México - 一昨日"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "🇻🇪 Venezuela - 3 日前"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "- 3 日前"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "G"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "Gloriel"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "🇯🇵 Japón - 3 日前"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "🇯🇵"
+  },
+  {
+    "section": "寄付",
+    "tag": "span",
+    "text": "Japón"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "Alfredo"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "Angel"
+  },
+  {
+    "section": "寄付",
+    "tag": "p",
+    "text": "- 3 日前"
+  },
+  {
+    "section": "寄付",
+    "tag": "button",
+    "text": "フィードをすべて見る"
+  },
+  {
+    "section": "寄付はどこへ届くの？",
+    "tag": "h2",
+    "text": "寄付はどこへ届くの？"
+  },
+  {
+    "section": "寄付はどこへ届くの？",
+    "tag": "p",
+    "text": "支援の種類ごとに、提携団体へ直接届けられます。"
+  },
+  {
+    "section": "Cáritas Venezuela",
+    "tag": "h3",
+    "text": "Cáritas Venezuela"
+  },
+  {
+    "section": "Cáritas Venezuela",
+    "tag": "p",
+    "text": "食料、水、医療、災害救援において全国的な活動を行う人道支援団体です。"
+  },
+  {
+    "section": "Cáritas Venezuela",
+    "tag": "span",
+    "text": "食料"
+  },
+  {
+    "section": "Cáritas Venezuela",
+    "tag": "span",
+    "text": "医療"
+  },
+  {
+    "section": "Hogar Bambi",
+    "tag": "h3",
+    "text": "Hogar Bambi"
+  },
+  {
+    "section": "Hogar Bambi",
+    "tag": "p",
+    "text": "家庭から離れた子どもや青少年に、住まい・保護・総合的な成長の場を提供する財団です。"
+  },
+  {
+    "section": "Hogar Bambi",
+    "tag": "span",
+    "text": "子ども"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "h2",
+    "text": "支援を可能にするチーム"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "p",
+    "text": "迅速な支援のために、技術、運用、発信力を提供している企業とチームです。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "a",
+    "text": "Wallibwallib.com支援と決済を調整する技術。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "Wallibwallib.com支援と決済を調整する技術。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "Wallib"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "wallib.com"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "支援と決済を調整する技術。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "a",
+    "text": "Trazando Futurostrazandofuturos.org社会的インパクトのある募金と教育。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "Trazando Futurostrazandofuturos.org社会的インパクトのある募金と教育。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "Trazando Futuros"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "trazandofuturos.org"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "社会的インパクトのある募金と教育。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "a",
+    "text": "Muneymuney.app支援を届けるための金融ソリューション。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "Muneymuney.app支援を届けるための金融ソリューション。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "Muney"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "muney.app"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "支援を届けるための金融ソリューション。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "a",
+    "text": "Merugetmeru.comグローバル運用のための金融インフラ。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "Merugetmeru.comグローバル運用のための金融インフラ。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "Meru"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "getmeru.com"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "グローバル運用のための金融インフラ。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "a",
+    "text": "Ibisusaibis.comプラットフォームのプロダクトと技術。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "Ibisusaibis.comプラットフォームのプロダクトと技術。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "Ibis"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "usaibis.com"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "プラットフォームのプロダクトと技術。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "a",
+    "text": "Parduxpardux.com取り組みを拡大するための開発と支援。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "Parduxpardux.com取り組みを拡大するための開発と支援。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "Pardux"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "pardux.com"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "取り組みを拡大するための開発と支援。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "a",
+    "text": "Coco Mercadococomercado.comコミュニティと生活必需品をつなぐマーケットプレイス。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "Coco Mercadococomercado.comコミュニティと生活必需品をつなぐマーケットプレイス。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "Coco Mercado"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "cocomercado.com"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "コミュニティと生活必需品をつなぐマーケットプレイス。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "a",
+    "text": "Coco Walletcocowallet.app支援を送受信するためのデジタルウォレット。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "Coco Walletcocowallet.app支援を送受信するためのデジタルウォレット。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "Coco Wallet"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "cocowallet.app"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "支援を送受信するためのデジタルウォレット。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "a",
+    "text": "Vankvank.co国境を越えた決済プラットフォーム。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "Vankvank.co国境を越えた決済プラットフォーム。"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "Vank"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "vank.co"
+  },
+  {
+    "section": "支援を可能にするチーム",
+    "tag": "span",
+    "text": "国境を越えた決済プラットフォーム。"
+  },
+  {
+    "section": "取り組み",
+    "tag": "h2",
+    "text": "取り組み"
+  },
+  {
+    "section": "取り組み",
+    "tag": "p",
+    "text": "Donavenezuela.comはRed Quipuの一部です。報告、リソース、支援チャネルをひとつの対応拠点につなぐ協働の取り組みです。"
+  },
+  {
+    "section": "取り組み",
+    "tag": "a",
+    "text": "主要ハブRed QuipuPlataforma para centralizar informacion verificada, reportes y recursos de la emergencia."
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "主要ハブRed QuipuPlataforma para centralizar informacion verificada, reportes y recursos de la emergencia."
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "主要ハブ"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "Red Quipu"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "Plataforma para centralizar informacion verificada, reportes y recursos de la emergencia."
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "01"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "Reporte de personas desaparecidas"
+  },
+  {
+    "section": "取り組み",
+    "tag": "a",
+    "text": "venezuela reportavenezuelareporta.org"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "venezuela reportavenezuelareporta.org"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "venezuela reporta"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "venezuelareporta.org"
+  },
+  {
+    "section": "取り組み",
+    "tag": "a",
+    "text": "venezuela te buscavenezuelatebusca.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "venezuela te buscavenezuelatebusca.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "venezuela te busca"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "venezuelatebusca.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "a",
+    "text": "desaparecidos terremoto venezueladesaparecidosterremotovenezuela.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "desaparecidos terremoto venezueladesaparecidosterremotovenezuela.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "desaparecidos terremoto venezuela"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "desaparecidosterremotovenezuela.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "02"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "Reporte de daños estructurales"
+  },
+  {
+    "section": "取り組み",
+    "tag": "a",
+    "text": "terremoto venezuelaterremotovenezuela.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "terremoto venezuelaterremotovenezuela.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "terremoto venezuela"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "terremotovenezuela.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "a",
+    "text": "tilin apptilinapp.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "tilin apptilinapp.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "tilin app"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "tilinapp.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "a",
+    "text": "centinelaapp.appcentinela.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "centinelaapp.appcentinela.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "centinela"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "app.appcentinela.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "03"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "Apoyo presencial y rescate"
+  },
+  {
+    "section": "取り組み",
+    "tag": "a",
+    "text": "rescate verescate-ve.vercel.app"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "rescate verescate-ve.vercel.app"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "rescate ve"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "rescate-ve.vercel.app"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "04"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "Ingenieros para inspeccion de habitabilidad"
+  },
+  {
+    "section": "取り組み",
+    "tag": "a",
+    "text": "habitablehabitable.lovable.app"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "habitablehabitable.lovable.app"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "habitable"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "habitable.lovable.app"
+  },
+  {
+    "section": "取り組み",
+    "tag": "a",
+    "text": "@grupoavila.veinstagram.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "@grupoavila.veinstagram.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "@grupoavila.ve"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "instagram.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "05"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "Centros de acopio"
+  },
+  {
+    "section": "取り組み",
+    "tag": "a",
+    "text": "ayuda para venezuelaayudaparavenezuela.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "ayuda para venezuelaayudaparavenezuela.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "ayuda para venezuela"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "ayudaparavenezuela.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "a",
+    "text": "veneconnectveneconnect.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "veneconnectveneconnect.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "veneconnect"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "veneconnect.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "a",
+    "text": "tu gruerotugruero.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "tu gruerotugruero.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "tu gruero"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "tugruero.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "a",
+    "text": "zona segurazonasegura.up.railway.app"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "zona segurazonasegura.up.railway.app"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "zona segura"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "zonasegura.up.railway.app"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "06"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "Insumos requeridos por zona"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "08"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "Donaciones y redes de pago"
+  },
+  {
+    "section": "取り組み",
+    "tag": "a",
+    "text": "dona venezueladonavenezuela.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "dona venezueladonavenezuela.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "dona venezuela"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "donavenezuela.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "09"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "Centros de alimentacion"
+  },
+  {
+    "section": "取り組み",
+    "tag": "a",
+    "text": "refugios venezuelarefugiosvenezuela.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "refugios venezuelarefugiosvenezuela.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "refugios venezuela"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "refugiosvenezuela.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "10"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "Refugios y alojamiento"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "11"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "Pacientes en hospitales"
+  },
+  {
+    "section": "取り組み",
+    "tag": "a",
+    "text": "pacientes terremoto vzlapacientesterremotovzla.lovable.app"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "pacientes terremoto vzlapacientesterremotovzla.lovable.app"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "pacientes terremoto vzla"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "pacientesterremotovzla.lovable.app"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "Informacion de mascotas"
+  },
+  {
+    "section": "取り組み",
+    "tag": "a",
+    "text": "huellascanhuellascan.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "huellascanhuellascan.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "huellascan"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "huellascan.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "13"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "Logistica y transporte"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "14"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "Apoyo medico y psicologico"
+  },
+  {
+    "section": "取り組み",
+    "tag": "a",
+    "text": "nueveoncenueveonce.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "nueveoncenueveonce.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "nueveonce"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "nueveonce.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "a",
+    "text": "venemergenciavenemergencia.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "venemergenciavenemergencia.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "venemergencia"
+  },
+  {
+    "section": "取り組み",
+    "tag": "span",
+    "text": "venemergencia.com"
+  },
+  {
+    "section": "取り組み",
+    "tag": "p",
+    "text": "支援を広げる"
+  },
+  {
+    "section": "一つの寄付や共有が、対応をさらに早めます。",
+    "tag": "h2",
+    "text": "一つの寄付や共有が、対応をさらに早めます。"
+  },
+  {
+    "section": "一つの寄付や共有が、対応をさらに早めます。",
+    "tag": "p",
+    "text": "提携団体へ支援を届けるために寄付するか、Donavenezuela.comを共有して、より多くの人が信頼できる支援先を見つけられるようにしてください。"
+  },
+  {
+    "section": "一つの寄付や共有が、対応をさらに早めます。",
+    "tag": "a",
+    "text": "寄付"
+  },
+  {
+    "section": "一つの寄付や共有が、対応をさらに早めます。",
+    "tag": "button",
+    "text": "共有"
+  },
+  {
+    "section": "一つの寄付や共有が、対応をさらに早めます。",
+    "tag": "a",
+    "text": "Dona Venezuela"
+  },
+  {
+    "section": "一つの寄付や共有が、対応をさらに早めます。",
+    "tag": "span",
+    "text": "Dona Venezuela"
+  },
+  {
+    "section": "一つの寄付や共有が、対応をさらに早めます。",
+    "tag": "p",
+    "text": "Donavenezuela.comは、ベネズエラの緊急対応に取り組む団体や取り組みと支援をつなぎます。"
+  },
+  {
+    "section": "一つの寄付や共有が、対応をさらに早めます。",
+    "tag": "p",
+    "text": "プラットフォーム"
+  },
+  {
+    "section": "一つの寄付や共有が、対応をさらに早めます。",
+    "tag": "a",
+    "text": "ホーム"
+  },
+  {
+    "section": "一つの寄付や共有が、対応をさらに早めます。",
+    "tag": "a",
+    "text": "取り組み"
+  },
+  {
+    "section": "一つの寄付や共有が、対応をさらに早めます。",
+    "tag": "p",
+    "text": "情報"
+  },
+  {
+    "section": "一つの寄付や共有が、対応をさらに早めます。",
+    "tag": "a",
+    "text": "寄付の使い道"
+  },
+  {
+    "section": "一つの寄付や共有が、対応をさらに早めます。",
+    "tag": "a",
+    "text": "その他の寄付先"
+  },
+  {
+    "section": "一つの寄付や共有が、対応をさらに早めます。",
+    "tag": "p",
+    "text": "ネットワークと支援"
+  },
+  {
+    "section": "一つの寄付や共有が、対応をさらに早めます。",
+    "tag": "a",
+    "text": "Red Quipu"
+  },
+  {
+    "section": "一つの寄付や共有が、対応をさらに早めます。",
+    "tag": "a",
+    "text": "donavenezuela.com"
+  },
+  {
+    "section": "一つの寄付や共有が、対応をさらに早めます。",
+    "tag": "p",
+    "text": "© 2026 Dona Venezuela"
+  }
+]
