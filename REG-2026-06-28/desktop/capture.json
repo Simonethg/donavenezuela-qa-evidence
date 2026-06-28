@@ -1,29 +1,8 @@
 {
   "breakpoint": "desktop",
   "target": "https://www.donavenezuela.com",
-  "console": [
-    "Loading the image 'https://www.google.com.ar/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-3WP50LGEEC&cid=310211799.1782673844&gtm=45je66o1h1v889234695z8832196322za20gzb832196322zd832196322&rcb=1&aip=1&dma=0&gcs=G111&gcd=13r3r3r3r5l1&npa=0&frm=0&tag_exp=115938466~115938468~119027224~119576891~119576895&z=1426008653' violates the following Content Security Policy directive: \"img-src 'self' blob: data: https://*.asterdex.com https://*.astherus.finance https://*.saasexch.cc https://*.saasexch.co https://*.saasexch.com https://*.saasexch.info https://*.saasexch.io https://*.wistia.com https://*.wistia.net https://accounts.google.com https://analytics.twitter.com https://api.smartling.com https://bin.bnbstatic.com https://cdn.cookielaw.org https://embedwistia-a.akamaihd.net https://geolocation.onetrust.com https://googleads.g.doubleclick.net https://optimize.google.com https://privacyportal-bn.my.onetrust.com https://public-1259603563.file.myqcloud.com https://public-1306379396.file.myqcloud.com https://public.bnbstatic.com https://public.nftstatic.com https://sensors.binance.cloud https://static-file-1259603563.file.myqcloud.com https://static-file-1306379396.file.myqcloud.com https://t.co https://upload-bnbstatic-com.s3.ap-northeast-1.amazonaws.com https://www.facebook.com https://www.google-analytics.com https://www.google.com https://www.googletagmanager.com\". The action has been blocked.",
-    "Failed to load resource: the server responded with a status of 404 ()",
-    "Failed to load resource: the server responded with a status of 400 ()"
-  ],
-  "failedRequests": [
-    {
-      "url": "bnc://app.binance.com/payment/secpay?tempToken=xd6vZaRDAwZcjbRobYKWuaxIZaaIPJLx&returnLink=https://ayuda-venezuela.usaibis.com/gracias?donationId=6a4171ad537bc354ffbd0d0b&amount=25&institution=C%C3%A1ritas+Venezuela",
-      "err": "net::ERR_ABORTED"
-    },
-    {
-      "url": "https://www.google.com.ar/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-3WP50LGEEC&cid=310211799.1782673844&gtm=45je66o1h1v889234695z8832196322za20gzb832196322zd832196322&rcb=1&aip=1&dma=0&gcs=G111&gcd=13r3r3r3r5l1&npa=0&frm=0&tag_exp=115938466~115938468~119027224~119576891~119576895&z=1426008653",
-      "err": "csp"
-    },
-    {
-      "url": "https://analytics.google.com/g/collect?v=2&tid=G-3WP50LGEEC&gtm=45je66o1h1v889234695z8832196322za20gzb832196322zd832196322&_p=1782673843043&_gaz=1&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAAAAGAC&are=1&cid=310211799.1782673844&frm=0&pscdl=noapi&rcb=1&sr=1440x900&uaa=arm&uab=64&uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.1&uaw=0&ul=es-es&gaf=2&_s=1&tag_exp=115938466~115938468~119027224~119576891~119576895&sid=1782673843&sct=1&seg=0&dl=https%3A%2F%2Fpay.binance.com%2Fen%2Fcheckout%2F01efbdad1a724e45b0e53248aa556396&dr=https%3A%2F%2Fwww.donavenezuela.com%2F&dt=Binance%20Pay%20Checkout%20Counter%20%7C%20Spend%20Bitcoin%2C%20BNB%20and%20Crypto%20%7C%20Binance.com&_tu=CA&en=page_view&_fv=1&_ss=1&ep.containerID=GTM-M86QHGF&tfd=2436",
-      "err": "net::ERR_ABORTED"
-    },
-    {
-      "url": "https://analytics.google.com/g/collect?v=2&tid=G-3WP50LGEEC&gtm=45je66o1h1v889234695za20gzb832196322zd832196322&_p=1782673843043&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AEAAAGQC&ae=a&are=1&cid=310211799.1782673844&frm=0&pscdl=noapi&rcb=1&sr=1440x900&uaa=arm&uab=64&uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.1&uaw=0&ul=es-es&gaf=2&_s=2&tag_exp=115938466~115938468~119027224~119576891~119576895&sid=1782673843&sct=1&seg=0&dl=https%3A%2F%2Fpay.binance.com%2Fen%2Fcheckout%2F01efbdad1a724e45b0e53248aa556396&dr=https%3A%2F%2Fwww.donavenezuela.com%2F&dt=Binance%20Pay%20Checkout%20Counter%20%7C%20Spend%20Bitcoin%2C%20BNB%20and%20Crypto%20%7C%20Binance.com&_tu=CA&en=scroll&ep.containerID=GTM-M86QHGF&epn.percent_scrolled=90&_et=5&tfd=7444",
-      "err": "net::ERR_ABORTED"
-    }
-  ],
+  "console": [],
+  "failedRequests": [],
   "surfaces": {
     "og": {
       "title": "Ayuda a Venezuela",
@@ -32,13 +11,34 @@
       "ogImage": "https://donavenezuela.com/opengraph-image?aa4429e8cb63adc7",
       "htmlLang": "es"
     },
-    "donorbox": {
-      "ctaFound": true,
+    "donation": {
+      "formPresent": true,
       "ctaText": "Donar",
-      "dialogOpened": false,
-      "widgetPresent": false,
-      "iframePresent": false,
-      "externalRedirect": null
+      "amounts": [
+        "$10",
+        "$25",
+        "$50",
+        "$100"
+      ],
+      "selectedMethod": "Binance Pay",
+      "methods": [
+        "💳Tarjeta",
+        "💳Tarjeta",
+        "Tarjeta",
+        "Tarjeta",
+        "PayPal",
+        "PayPal",
+        "PayPal",
+        "PayPal",
+        "🏦Transferencia bancaria",
+        "🏦Transferencia bancaria",
+        "Transferencia bancaria",
+        "Transferencia bancaria",
+        "Binance Pay",
+        "Binance Pay",
+        "Binance Pay",
+        "Binance Pay"
+      ]
     },
     "i18n": {
       "es": {
@@ -71,9 +71,15 @@
       "reached": true,
       "shareButton": true,
       "shareButtonText": "Compartir mi donacion",
+      "withParams": {
+        "showsAmount": true,
+        "showsInstitution": true,
+        "heading": "Tu ayuda ya esta en camino."
+      },
       "status": 200
     }
   },
+  "badResponses": [],
   "finalUrl": "https://www.donavenezuela.com/?lang=es",
   "title": "Ayuda a Venezuela"
 }
