@@ -1,0 +1,93 @@
+{
+  "breakpoint": "mobile",
+  "target": "https://donavenezuela-bqxi2c4yj-ibis-1221cf3c.vercel.app",
+  "console": [],
+  "failedRequests": [],
+  "surfaces": {
+    "og": {
+      "title": "Ayuda a Venezuela",
+      "description": "El 24 de junio, Venezuela fue golpeada por dos terremotos que dejaron a miles de personas damnificadas en todo el pais. Este portal facilita el envio de ayuda monetaria para apoyar a quienes mas la necesitan durante esta crisis.",
+      "ogTitle": "Ayuda a Venezuela",
+      "ogImage": "https://donavenezuela-com-git-staging-ibis-1221cf3c.vercel.app/opengraph-image?aa4429e8cb63adc7",
+      "htmlLang": "es"
+    },
+    "donation": {
+      "formPresent": true,
+      "ctaText": "Donar",
+      "amounts": [
+        "$10",
+        "$25",
+        "$50",
+        "$100"
+      ],
+      "selectedMethod": "Binance Pay",
+      "methods": [
+        "💳Tarjeta",
+        "💳Tarjeta",
+        "Tarjeta",
+        "Tarjeta",
+        "PayPal",
+        "PayPal",
+        "PayPal",
+        "PayPal",
+        "🏦Transferencia bancaria",
+        "🏦Transferencia bancaria",
+        "Transferencia bancaria",
+        "Transferencia bancaria",
+        "Binance Pay",
+        "Binance Pay",
+        "Binance Pay",
+        "Binance Pay",
+        "Exchanges y wallets cripto",
+        "Exchanges y wallets cripto",
+        "Exchanges y wallets cripto",
+        "Exchanges y wallets cripto",
+        "🇪🇨Ecuador · Transferencia bancaria",
+        "🇪🇨Ecuador · Transferencia bancaria",
+        "Ecuador · Transferencia bancaria",
+        "Ecuador · Transferencia bancaria"
+      ]
+    },
+    "i18n": {
+      "es": {
+        "heading": "Ayuda a Venezuela",
+        "htmlLang": "es",
+        "rawKeySuspect": false,
+        "hasUndefined": false
+      },
+      "en": {
+        "heading": "Help Venezuela",
+        "htmlLang": "en",
+        "rawKeySuspect": false,
+        "hasUndefined": false
+      },
+      "pt": {
+        "heading": "Ajude a Venezuela",
+        "htmlLang": "pt",
+        "rawKeySuspect": false,
+        "hasUndefined": false
+      },
+      "ja": {
+        "heading": "ベネズエラ支援",
+        "htmlLang": "ja",
+        "rawKeySuspect": false,
+        "hasUndefined": false
+      }
+    },
+    "langPersisted": "ja",
+    "gracias": {
+      "reached": true,
+      "shareButton": true,
+      "shareButtonText": "Compartir mi donacion",
+      "withParams": {
+        "showsAmount": true,
+        "showsInstitution": true,
+        "heading": "Tu ayuda ya esta en camino."
+      },
+      "status": 200
+    }
+  },
+  "badResponses": [],
+  "finalUrl": "https://donavenezuela-bqxi2c4yj-ibis-1221cf3c.vercel.app/?lang=es",
+  "title": "Ayuda a Venezuela"
+}
